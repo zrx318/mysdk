@@ -1,1 +1,1 @@
-module "mysdk"
+module "github.com/zrx318/mysdk"
